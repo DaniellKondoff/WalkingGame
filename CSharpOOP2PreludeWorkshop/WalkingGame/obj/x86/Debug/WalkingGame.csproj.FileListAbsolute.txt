@@ -1,0 +1,66 @@
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\WalkingGame.exe
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\WalkingGame.pdb
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.csprojResolveAssemblyReference.cache
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.exe
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.pdb
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\charactersheet.xnb
+c:\users\maika\documents\visual studio 2015\Projects\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\charactersheet.png
+C:\Users\Maika\Desktop\SuperSecretWorkhopFolder\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.exe
+C:\Users\Maika\Desktop\SuperSecretWorkhopFolder\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.pdb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.exe
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.pdb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\charactersheet.png
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\charactersheet.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\WalkingGame.exe
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\WalkingGame.pdb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\MonoGame.Framework.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XInput.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\MonoGame.Framework.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.XInput.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\obj\x86\Debug\WalkingGame.csprojResolveAssemblyReference.cache
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\bonusObject.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\bricks.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\charactersheet.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\cheeseburger.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\flowerpot.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\flowerpot2.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\java.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\knife.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\sashimi.xnb
+D:\SoftUni\C#_OOP_OLD\01.C#OOP_BASIC_\07.Workshop\CSharpOOP2PreludeWorkshop\WalkingGame\bin\Windows\x86\Debug\Content\Assets\skull.xnb

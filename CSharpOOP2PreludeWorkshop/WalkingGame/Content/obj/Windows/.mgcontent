@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/charactersheet.png</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/bonusObject.png</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/bricks.png</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/charactersheet.png</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/cheeseburger.png</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/flowerpot.gif</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/flowerpot2.gif</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/java.png</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/knife.png</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/sashimi.gif</File>
+    <File>D:/SoftUni/C#_OOP_OLD/01.C#OOP_BASIC_/07.Workshop/CSharpOOP2PreludeWorkshop/WalkingGame/Content/Assets/skull.png</File>
+  </SourceFiles>
+</SourceFileCollection>
